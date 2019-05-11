@@ -8,8 +8,8 @@ https://v1.quasar-framework.org/quasar-cli/installation
 ##### Node.js >= 8.9.0 is required
 ```npm install -g @quasar/cli``` 
 ### Create a Project
-### currently installs latestest stable version, for latest beta version see below
+#### Install latestest stable version
 quasar create <folder_name>
 
-## for Quasar beta, run this instead:
+#### Quasar beta, run this instead:
 ```quasar create <folder_name> -b dev```  
