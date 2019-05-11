@@ -11,10 +11,9 @@ quasar ext add @quasar/testing
 ```
 quasar test --unit jest
 ```
-### Extensions to vs code
-Wallaby.js  
-
 ## Extensions
+### Extensions to vs code
+Wallaby.js  # Is a paid product.
 ### Wallaby
 https://wallabyjs.com/  
 
