@@ -28,3 +28,5 @@ https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanh
 ### Selenium Server
 Install Java Development Kit.  
 https://www.java.com/en/download/help/download_options.xml  
+### Add Intellisense for the Jest Test Files
+https://stackoverflow.com/questions/55765616/vs-code-jest-and-cypress-intellisense-doesnt-work-properly-with-chai  
