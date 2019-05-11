@@ -9,7 +9,7 @@ https://v1.quasar-framework.org/quasar-cli/installation
 ```npm install -g @quasar/cli``` 
 ### Create a Project
 #### Install latestest stable version
-quasar create <folder_name>
+```quasar create <folder_name>```
 
 #### Quasar beta, run this instead:
 ```quasar create <folder_name> -b dev```  
