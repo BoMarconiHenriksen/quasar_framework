@@ -24,3 +24,8 @@ https://github.com/Raathigesh/majestic/
 cd ./my-jest-project # go into a project with Jest
 npx majestic # execute majestic
 ```
+### Chrome Browser Extensions
+https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd  
+### Selenium Server
+Install Java Development Kit.  
+https://www.java.com/en/download/help/download_options.xml  
