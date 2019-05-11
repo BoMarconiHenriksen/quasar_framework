@@ -1,6 +1,6 @@
 # Install Test Suits
 https://v1.quasar-framework.org/quasar-cli/testing-and-auditing  
-##### Quasar Official Testing Page
+##### Quasar Official Testing Documentation
 https://testing.quasar-framework.org/  
 ### Install Test Suits
 ```
